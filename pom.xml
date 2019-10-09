@@ -5,7 +5,7 @@
 	<groupId>com.websystique.springboot</groupId>
 	<artifactId>SpringBootStandAloneExample</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>SpringBootStandAloneExample</name>
 
